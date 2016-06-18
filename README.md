@@ -1,4 +1,4 @@
-# angular-seed — the seed for AngularJS apps
+# angular-quickstart — the seed for AngularJS apps - forked https://github.com/angular/angular-seed
 
 [![Build Status](https://travis-ci.org/andrefelipecp/angular-quickstart.svg?branch=master)](https://travis-ci.org/andrefelipecp/angular-quickstart)
 
